@@ -1,10 +1,10 @@
 {
-  "main": "server.js",
+  "main": "Server.js",
   "name": "backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "node server.js",
-     "dev": "node server.js"
+    "start": "node Server.js",
+     "dev": "node Server.js"
   },
   "keywords": [],
   "author": "",
